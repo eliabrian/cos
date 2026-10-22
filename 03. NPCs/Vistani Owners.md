@@ -1,0 +1,1 @@
+Vistani Owners (N female human). Tiga [[Vistania Spy]] bernama Alenka, Mirabel, dan Sorvia duduk di meja dekat pintu masuk. Mereka pemilik tavern ini dan memastikan pelanggan membayar. Mereka tidak minat kepada PC.

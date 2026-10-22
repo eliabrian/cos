@@ -1,0 +1,5 @@
+Bildrath Cantemir (LN male human [[Commoner]]), menjual barang-barang dari tabel Adventuring Gear di Player’s Handbook, tetapi hanya menjual barang-barang dengan harga kurang dari 25 gp, dan dia menjualnnya dengan harga 10x lipat.
+
+Bildrath berdagang kepada Vistani jika mereka lewat. Ia juga senang memanfaatkan orang asing yang berada di sini. Ia hanya mementingkan kepentingannya sendiri dan tidak menawarkan akomodasi. Ia tidak tidak suka jika orang menawar, “Jika anda benar benar menginginkannya, anda pasti akan membayarnya”. Ia tidak punya saingan di desa ini.
+
+Jika para PC membuat Bildrath kesulitan, ia memanggil Parriwimple (LG human male), keponakannya sekaligus penjaga toko, untuk membantunya. Parriwimple memiliki statistik seorang gladiator. Nama asli Parriwimple adalah Parpol Cantemir, tetapi tidak ada seorang pun di desa yang memanggilnya dengan nama itu. Otot-otot besar dibawah tunik kulitnya sudah cukup menunjukkan kekuatannya. Namun, Parriwimple berpikiran rendah. DIa setia kepada pamannya dan tidak mengikuti PC selama Bildrath masih menentangnya.
