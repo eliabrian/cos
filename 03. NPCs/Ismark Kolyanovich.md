@@ -1,6 +1,6 @@
 ![[Ismark Kolyanovich.png]]
 # Roleplaying Ismark
-Ismark (LG male human veteran). Ia adalah seorang pemuda yang duduk sendirian di pojok ruangan sambil meminum anggurnya. Penduduk desa memanggilnya “Ismark the Lesser” karna ia telah hidup di bawah bayang-bayang ayahnya hampir sepanjang hidupnya.
+Ismark (LG male human [[Warrior Veteran]]). Ia adalah seorang pemuda yang duduk sendirian di pojok ruangan sambil meminum anggurnya. Penduduk desa memanggilnya “Ismark the Lesser” karna ia telah hidup di bawah bayang-bayang ayahnya hampir sepanjang hidupnya.
 
 Ismark bukanlah tipikal orang Barovia yang murung. Dia mengundang PC untuk duduk bersamanya, menawarkan untuk membayar anggur mereka, dan meminta bantuan mereka untuk melindungi saudara angkatnya, Ireena Kolyana.
 

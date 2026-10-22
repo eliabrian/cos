@@ -1,0 +1,3 @@
+Parriwimple mempunyai stat [[Gladiator]], kecuali dia mempunyai intelligence 6 dan tidak menggunakan shield (AC 14).
+
+Nama asli Parriwimple adalah Parpol Cantemir, tetapi tidak ada seorang pun di desa yang memanggilnya dengan nama itu. Otot-otot besar dibawah tunik kulitnya sudah cukup menunjukkan kekuatannya. Namun, Parriwimple berpikiran rendah. Dia setia kepada pamannya dan tidak mengikuti PC selama Bildrath masih menentangnya.

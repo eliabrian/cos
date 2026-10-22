@@ -38,9 +38,9 @@ Saat PC membuka pintu atau memecahkan jendela dari sebuah rumah yang dipenuhi St
 
 Bangunan itu berukuran 70 kaki dan lebar 40 kaki. Pemiliknya, [[Bildrath Cantemir]], menjual barang-barang dari tabel Adventuring Gear di Player’s Handbook, tetapi hanya menjual barang-barang dengan harga kurang dari 25 gp, dan dia menjualnnya dengan harga 10x lipat.
 
-Bildrath berdagang kepada Vistani jika mereka lewat. Ia juga senang memanfaatkan orang asing yang berada di sini. Ia hanya mementingkan kepentingannya sendiri dan tidak menawarkan akomodasi. Ia tidak tidak suka jika orang menawar, “Jika anda benar benar menginginkannya, anda pasti akan membayarnya”. Ia tidak punya saingan di desa ini.
+[[Bildrath Cantemir]] berdagang kepada Vistani jika mereka lewat. Ia juga senang memanfaatkan orang asing yang berada di sini. Ia hanya mementingkan kepentingannya sendiri dan tidak menawarkan akomodasi. Ia tidak tidak suka jika orang menawar, “Jika anda benar benar menginginkannya, anda pasti akan membayarnya”. Ia tidak punya saingan di desa ini.
 
-Jika para PC membuat Bildrath kesulitan, ia memanggil Parriwimple (LG human male), keponakannya sekaligus penjaga toko, untuk membantunya. Parriwimple memiliki statistik seorang gladiator. Nama asli Parriwimple adalah Parpol Cantemir, tetapi tidak ada seorang pun di desa yang memanggilnya dengan nama itu. Otot-otot besar dibawah tunik kulitnya sudah cukup menunjukkan kekuatannya. Namun, Parriwimple berpikiran rendah. DIa setia kepada pamannya dan tidak mengikuti PC selama Bildrath masih menentangnya.
+Jika para PC membuat [[Bildrath Cantemir]] kesulitan, ia memanggil [[Parriwimple]], keponakannya sekaligus penjaga toko, untuk membantunya. Nama asli Parriwimple adalah Parpol Cantemir, tetapi tidak ada seorang pun di desa yang memanggilnya dengan nama itu. Otot-otot besar dibawah tunik kulitnya sudah cukup menunjukkan kekuatannya. Namun, Parriwimple berpikiran rendah. Dia setia kepada pamannya dan tidak mengikuti PC selama Bildrath masih menentangnya.
 
 ## E2. Blood of the Vine Tavern
 
@@ -162,9 +162,9 @@ Setelah Kolyan dimakamkan, [[Donavich]] menyarankan agar [[Ireena Kolyana]] diba
 > [!quote] Read
 > Ruang bawah tanah gereja ini memiliki dinding yang dipahat kasar serta lantai yang terbuat dari tanah liat basah dan tanah. Tiang-tiang kayu yang sudah lapuk tampak tertekuk menahan beban langit-langit. Cahaya lilin dari kapel di atas menyusup melalui celah-celah, sehingga kamu bisa melihat sekilas sosok kurus di sudut terjauh.
 
-Makhluk itu bernama Doru, keturunan vampir yang dikirim oleh Strahd untuk menyiksa Donavich dan menghancurkan gereja. Doru sangat haus darah dan cukup berani untuk menyerang seorang karakter yang sendirian. Jika para karakter mendekat sebagai satu kelompok, ia akan berusaha sekuat tenaga untuk menghindar sambil mendesis, “Aku bisa mencium bau darahmu!” Jika mereka memotong jalur pelariannya, ia akan menerjang ke depan dan menyerang.
+Makhluk itu bernama [[Doru]], [[Vampire Spawn]] yang dikirim oleh Strahd untuk menyiksa [[Donavich]] dan menghancurkan gereja. [[Doru]] sangat haus darah dan cukup berani untuk menyerang seorang karakter yang sendirian. Jika para karakter mendekat sebagai satu kelompok, ia akan berusaha sekuat tenaga untuk menghindar sambil mendesis, “Aku bisa mencium bau darahmu!” Jika mereka memotong jalur pelariannya, ia akan menerjang ke depan dan menyerang.
 
-Jika para tokoh menahan Doru dan menjanjikan darah kepadanya atau mengancam, atau jika mereka membunuhnya lalu menghidupkannya kembali, ia akan menceritakan peristiwa-peristiwa yang menyebabkan kejatuhannya.
+Jika para tokoh menahan [[Doru]] dan menjanjikan darah kepadanya atau mengancam, atau jika mereka membunuhnya lalu menghidupkannya kembali, ia akan menceritakan peristiwa-peristiwa yang menyebabkan kejatuhannya.
 
 ## E6. Cemetery
 

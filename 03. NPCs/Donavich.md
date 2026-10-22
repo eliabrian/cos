@@ -1,5 +1,5 @@
 ![[Donavich.webp]]
-Donavich (LG male human acolyte) telah berdoa sepanjang malam. Suaranya serak dan lemah. Singkatnya, dia sudah gila. Lebih dari setahun yang lalu, putranya yang berusia dua puluh tahun, Doru, bersama beberapa penduduk desa lainnya menyerbu Kastil Ravenloft dalam aksi pemberontakan, setelah dibujuk ke sana oleh seorang penyihir berjubah hitam yang datang ke Barovia dari negeri yang jauh.
+Donavich (LG male human [[Priest Acolyte]]) telah berdoa sepanjang malam. Suaranya serak dan lemah. Singkatnya, dia sudah gila. Lebih dari setahun yang lalu, putranya yang berusia dua puluh tahun, Doru, bersama beberapa penduduk desa lainnya menyerbu Kastil Ravenloft dalam aksi pemberontakan, setelah dibujuk ke sana oleh seorang penyihir berjubah hitam yang datang ke Barovia dari negeri yang jauh.
 
 Menurut semua laporan, penyihir itu tewas di tangan Strahd, begitu pula Doru, yang kembali kepada ayahnya sebagai keturunan vampir. Donavich berhasil mengurung putranya di ruang bawah tanah gereja, tempat ia tetap berada hingga hari ini.
 
